@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.1",
-  "notes": "v0.1.1 发布",
-  "pub_date": "2026-06-07T17:03:11.244Z",
+  "version": "v0.1.3",
+  "notes": "v0.1.3 发布",
+  "pub_date": "2026-11-16T02:54:07.302Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbkJNMVkxQlZ6Q1BoVjc1cGwzMlYza2tuY3lLckQveUllSGFEUlVmRzlhSC9NNXZEbUwzUXh4RHJzM1NFT1AwZ2pIZjgveGlYSkRzZ0t6T2pwUXMwZVp2S2MvelMxbXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODUxNzkxCWZpbGU6ZmlsZS1ub3Rlcy1tYW5hZ2VyXzAuMS4xX3g2NC1zZXR1cC5uc2lzLnppcApsaTUyaTFHaEljVlV6c0ZsbjhyUkhkYTBoanJtcmNNM0syR3JzVHkzNXlIR3diUEpOTkcydHFkajlaMGdGUkdrK2lFQk5SNlBwQUFWc1NBd1JxU01Cdz09Cg==",
-      "url": "https://github.com/weic70902-dev/file-tools-releases/releases/download/v0.1.1/file-notes-manager_0.1.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbkJNMVkxQlZ6Q01GUlNlQUdRSUZXWVpUeld4VG8zMDlVek9KVTIybjFZUjhGZW5NbDdTVHB0cmZZbG5qVFdtcWQwZVdjK0l2dlliZ1FsQ3lsc0p4c2pkeGEwenJlMlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk3NjQ3CWZpbGU6ZmlsZS1ub3Rlcy1tYW5hZ2VyXzAuMS4zX3g2NC1zZXR1cC5uc2lzLnppcApwN2J2cDl5V0hQTUtYcFdHQTZBSTd2blRYK3FDcE9FYmlTN1Jub2VUc2h0Z0VEQnRWdmdZWUE1cDV4UVVMS05PcXZJNTRTeUZIc1ZCM0tacUo0ditBQT09Cg==",
+      "url": "https://github.com/weic70902-dev/file-tools-releases/releases/download/v0.1.3/file-notes-manager_0.1.3_x64-setup.nsis.zip"
     }
   }
 }
